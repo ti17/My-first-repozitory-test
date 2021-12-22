@@ -1,2 +1,0 @@
-print "WFC" "Something text
-
