@@ -1,2 +1,2 @@
-print "WFC"
+print "WFC" "Something text
 
